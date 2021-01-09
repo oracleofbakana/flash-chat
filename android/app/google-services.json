@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852733438971",
+    "firebase_url": "https://flash-chat-95448.firebaseio.com",
+    "project_id": "flash-chat-95448",
+    "storage_bucket": "flash-chat-95448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852733438971:android:32ccefcefbed723e1f395e",
+        "android_client_info": {
+          "package_name": "co.bonjourdapper.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852733438971-0om0h53ogs1u0t8bt4l7rgfhvth6v4hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0qm6FkTjqT_6lORy3VZP6JAY4w_SmAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852733438971-0om0h53ogs1u0t8bt4l7rgfhvth6v4hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
